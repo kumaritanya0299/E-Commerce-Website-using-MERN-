@@ -8,11 +8,13 @@ Full Stack eCommerce Website (MERN Stack)
 - Displays a list of products on the home page.
 - Includes a shopping cart for users to manage their selected items.
 - Provides login and registration functionality for users.
+- Features: 
 -Back-End:
 - Developed with Node.js, Express, and MongoDB.
 - API endpoints for managing products (add, update, display).
 - Handles shopping cart operations.
 - User authentication with login and registration APIs.
+    - Features: 
 -Admin Panel:
 - Allows admins to add new products to the store.
 - Provides functionality for updating existing product details.
